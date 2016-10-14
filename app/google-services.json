@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "649059702648",
+    "firebase_url": "https://outpass-142416.firebaseio.com",
+    "project_id": "outpass-142416",
+    "storage_bucket": "outpass-142416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649059702648:android:83052ac78fdf1b56",
+        "android_client_info": {
+          "package_name": "leeroy.outpass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649059702648-83g701fuhvcb8lpcpe8rtqvt8p02oteq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "leeroy.outpass",
+            "certificate_hash": "55CB69392C13DD372E299C8FC8D2ACED8B72F49C"
+          }
+        },
+        {
+          "client_id": "649059702648-nchouqmu42ldf8279351to8sclojf5mh.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "649059702648-2pfidgoe7p1pij68vh8scqpug7tfut1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi_08yqCKeFJPn85e5ojlnzJNGO0dWDUc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649059702648-nchouqmu42ldf8279351to8sclojf5mh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
